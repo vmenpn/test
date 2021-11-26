@@ -3,9 +3,9 @@
 $link = str_replace(' ','',$_GET['link']);
 $passfile = $_GET['pass'];
 // $link = 'https://www.fshare.vn/file/4Q56774PV4MG';
-$app_name='chinhchu99-0NNLN2';
+$app_name='mirror-I66CZH';
 $app_key='dMnqMMZMUnN5YpvKENaEhdQQ5jxDqddt'; 
-$email = 'toilachinhchu99@gmail.com';
+$email = 'vuphung69@gmail.com';
 $pass = 'Hihihaha123@';
 
 
