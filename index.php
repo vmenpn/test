@@ -24,14 +24,14 @@ $data = str_replace('<a','<a target="_blank" ',$data);
     <link rel="icon" type="image/png" href="./logo.png" sizes="57x57">
     <link rel="shortcut icon" href="./logo.png" type="image/x-icon">
     <title>Tải nhanh FShare - KMA CFS</title>
-    <!-- Latest compiled and minified CSS -->
+    Latest compiled and minified CSS 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <!-- jQuery library -->
+    jQuery library 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src = "./jquery.cookie.js "></script>
-    <!-- Popper JS -->
+    Popper JS 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-    <!-- Latest compiled JavaScript -->
+    Latest compiled JavaScript 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <meta property="og:title" content="Tải nhanh FShare - KMA CFS">
     <meta property="og:site_name" content="Tải nhanh FShare - KMA CFS">
@@ -42,7 +42,7 @@ $data = str_replace('<a','<a target="_blank" ',$data);
     <meta property="og:url" content="https://fshare.kmacfs.com/">
     <meta name="keywords" content="Tải nhanh FShare - KMA CFS">
     <meta name="description" content="Website hỗ trợ tải nhanh Fshare của KMACFS. Không cần đăng ký thành viên!">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+    Global site tag (gtag.js) - Google Analytics 
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-FLK7VZQWH8"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -177,81 +177,77 @@ $data = str_replace('<a','<a target="_blank" ',$data);
   </div>
 </div>
     </nav>
-    <div class="container">
-        <div class="row">
-            <div class="col-12 text-center mt-5"><a href="https://code.kmacfs.com/hntgahvnmk" class="btn btn-danger" target="_blank">Sử dụng tại đây</a></div>
-        </div>
     </div>
     <div class="container">
         <div class="row">
-    <!--        <div class="col-sm-12 text-center mt-3">-->
-    <!--            <h1 style="color:#cd1417">GET LINK TẢI NHANH</h1><br></be><img src="./fshare.png">-->
-    <!--        </div>-->
-    <!--        <div class="col-sm-12 text-center mt-3">-->
-    <!--            <div class="alert alert-danger notice" style="display:none">-->
-    <!--                <strong>Lỗi!</strong> Không get được link xin vui lòng thử lại sau!-->
-    <!--            </div>-->
-    <!--        </div>-->
-    <!--        <div class="col-sm-12 text-center mt-3"><b>-->
-                    <!--<p class="text-warning"><i class="fa fa-exclamation-triangle"></i> Lưu ý : Dung lượng tải nhanh tối đa của website là 150GB / Ngày. Sau khi hết dung lượng tốc độ tải thuộc loại khá !</p>  -->
-    <!--                <h4 class="text-danger" style="border: 1px solid #cd1417;padding: 10px 0;"><i class="fa fa-exclamation-triangle"></i> Hệ thống chỉ dành cho Sinh Viên KMAer!</h4>-->
-                    <!--<p class="text-primary "> Gợi ý: Tưởng là <span class="text-danger">3</span> hóa ra là <span class="text-danger">4</span> ! Học sinh KMAer chắc chắn giải được để dùng! </p>-->
-    <!--            </b></div>-->
-    <!--        <div class="col-sm-12 text-center">-->
-    <!--            <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#myHistory"><i class="fa fa-history" aria-hidden="true"></i> LỊCH SỬ GET LINK</button>-->
-    <!--        </div>-->
-    <!--        <div class="col-sm-5 text-right mt-3">-->
-    <!--            <input id="link-get" type="text" class="form-control" placeholder="Nhập Link Fshare cần tải" required>-->
-    <!--        </div>-->
-    <!--        <div class="col-sm-5 text-right mt-3">-->
-    <!--            <input id="pass-get" type="text" class="form-control" placeholder="Nhập pass nếu có">-->
-    <!--            <i class="fa fa-info-circle text-secondary" aria-hidden="true" id="ispass" style="cursor: help;position: absolute;top: 10px;right: 20px;font-size: 20px;"></i>-->
-    <!--        </div>-->
-    <!--        <div class="col-sm-2 mt-3">-->
-    <!--            <button type="button" class="btn btn-success btn-block" id="click-get"><i class="fa fa-link"></i> Get Link</button>-->
-    <!--        </div>-->
-    <!--        <div class="col-sm-12 text-center mt-3 button-get"><b>-->
-    <!--                <p class="text-primary"> Nhập link cần tải <i class="text-danger">( VD : https://www.fshare.vn/file/4Q56774PV4MG )</i> và nhập <i class="text-danger">PASS</i>, link không có pass thì bỏ trống! Sau đó ấn [ <i class="fa fa-link"></i> Get Link ]</p>-->
-    <!--            </b></div>-->
-    <!--    </div>-->
-    <!--    <div class="row text-center">-->
-    <!--        <div class="col-sm-3"></div>-->
-    <!--        <div class="col-sm-6 luu-y" style="border: 1px solid #dee2e6;border-radius: 10px; display:none;">-->
-    <!--            <p style="color: #17a2b8; font-weight: 600;margin: 5px 0;">Ô pass dành cho link file đặt password</p>-->
-    <!--            <img src="https://i.imgur.com/9NsGLBL.png" width="100%">-->
-    <!--        </div>-->
-    <!--        <div class="col-sm-3"></div>-->
-    <!--    </div>-->
-    <!--    <div class=row>-->
+           <div class="col-sm-12 text-center mt-3">
+               <h1 style="color:#cd1417">GET LINK TẢI NHANH</h1><br></be><img src="./fshare.png">
+           </div>
+           <div class="col-sm-12 text-center mt-3">
+               <div class="alert alert-danger notice" style="display:none">
+                   <strong>Lỗi!</strong> Không get được link xin vui lòng thử lại sau!
+               </div>
+           </div>
+           <div class="col-sm-12 text-center mt-3"><b>
+                    <p class="text-warning"><i class="fa fa-exclamation-triangle"></i> Lưu ý : Dung lượng tải nhanh tối đa của website là 150GB / Ngày. Sau khi hết dung lượng tốc độ tải thuộc loại khá !</p>  
+                   <h4 class="text-danger" style="border: 1px solid #cd1417;padding: 10px 0;"><i class="fa fa-exclamation-triangle"></i> Hệ thống chỉ dành cho Sinh Viên KMAer!</h4>
+                    <p class="text-primary "> Gợi ý: Tưởng là <span class="text-danger">3</span> hóa ra là <span class="text-danger">4</span> ! Học sinh KMAer chắc chắn giải được để dùng! </p>
+               </b></div>
+           <div class="col-sm-12 text-center">
+               <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#myHistory"><i class="fa fa-history" aria-hidden="true"></i> LỊCH SỬ GET LINK</button>
+           </div>
+           <div class="col-sm-5 text-right mt-3">
+               <input id="link-get" type="text" class="form-control" placeholder="Nhập Link Fshare cần tải" required>
+           </div>
+           <div class="col-sm-5 text-right mt-3">
+               <input id="pass-get" type="text" class="form-control" placeholder="Nhập pass nếu có">
+               <i class="fa fa-info-circle text-secondary" aria-hidden="true" id="ispass" style="cursor: help;position: absolute;top: 10px;right: 20px;font-size: 20px;"></i>
+           </div>
+           <div class="col-sm-2 mt-3">
+               <button type="button" class="btn btn-success btn-block" id="click-get"><i class="fa fa-link"></i> Get Link</button>
+           </div>
+           <div class="col-sm-12 text-center mt-3 button-get"><b>
+                   <p class="text-primary"> Nhập link cần tải <i class="text-danger">( VD : https://www.fshare.vn/file/4Q56774PV4MG )</i> và nhập <i class="text-danger">PASS</i>, link không có pass thì bỏ trống! Sau đó ấn [ <i class="fa fa-link"></i> Get Link ]</p>
+               </b></div>
+       </div>
+       <div class="row text-center">
+           <div class="col-sm-3"></div>
+           <div class="col-sm-6 luu-y" style="border: 1px solid #dee2e6;border-radius: 10px; display:none;">
+               <p style="color: #17a2b8; font-weight: 600;margin: 5px 0;">Ô pass dành cho link file đặt password</p>
+               <img src="https://i.imgur.com/9NsGLBL.png" width="100%">
+           </div>
+           <div class="col-sm-3"></div>
+       </div>
+       <div class=row>
             <div class="col-sm-12 text-center kma-title mt-3">
                 <h2>KMA CODE - NEW</h2>
             </div>
             <?php echo $data; ?>
-        <!--</div>-->
-    <!--</div>-->
-    <!-- The Modal -->
-    <!--<div class="modal" id="myHistory">-->
-    <!--    <div class="modal-dialog modal-lg">-->
-    <!--        <div class="modal-content">-->
-                <!-- Modal Header -->
-    <!--            <div class="modal-header">-->
-    <!--                <h4 class="modal-title"><i class="fa fa-history" aria-hidden="true"></i> LỊCH SỬ GET LINK CỦA BẠN</h4>-->
-    <!--                <button type="button" class="close" data-dismiss="modal">&times;</button><br>-->
+        </div>
+    </div>
+    The Modal 
+    <div class="modal" id="myHistory">
+       <div class="modal-dialog modal-lg">
+           <div class="modal-content">
+                Modal Header 
+               <div class="modal-header">
+                   <h4 class="modal-title"><i class="fa fa-history" aria-hidden="true"></i> LỊCH SỬ GET LINK CỦA BẠN</h4>
+                   <button type="button" class="close" data-dismiss="modal">&times;</button><br>
                     
-    <!--            </div>-->
-                <!-- Modal body -->
-    <!--            <div class="modal-body">-->
+               </div>
+                Modal body 
+               <div class="modal-body">
                 
-    <!--                <div class="table-responsive list-history">-->
-    <!--                </div>-->
-    <!--            </div>-->
-                <!-- Modal footer -->
-    <!--            <div class="modal-footer">-->
-    <!--                 <p><i><i class="fa fa-exclamation-circle" aria-hidden="true"></i> Lưu ý : Các link get sẽ bị hết hạn trong một thời gian nhất định!</i></p>-->
-    <!--                <button type="button" class="btn btn-warning clear-cookie">Xóa lịch sử</button>-->
-    <!--                <button type="button" class="btn btn-danger" data-dismiss="modal">Đóng</button>-->
-    <!--            </div>-->
-    <!--        </div>-->
+                   <div class="table-responsive list-history">
+                   </div>
+               </div>
+                Modal footer 
+               <div class="modal-footer">
+                    <p><i><i class="fa fa-exclamation-circle" aria-hidden="true"></i> Lưu ý : Các link get sẽ bị hết hạn trong một thời gian nhất định!</i></p>
+                   <button type="button" class="btn btn-warning clear-cookie">Xóa lịch sử</button>
+                   <button type="button" class="btn btn-danger" data-dismiss="modal">Đóng</button>
+               </div>
+           </div>
         </div>
     </div>
     <script type="text/javascript">
@@ -279,8 +275,8 @@ $data = str_replace('<a','<a target="_blank" ',$data);
                         $('.notice').css("display", "none");
                         $("#click-get").addClass('disabled');
                         // tạo deylay 
-                        $(".button-get").html('<button type="button" class="btn btn-primary disabled"><span class="spinner-grow spinner-grow-sm"></span> Link tải sẽ được khởi tạo sau <span id="countdowntimer">15</span> giây</button>');
-                        var timeleft = 15;
+                        $(".button-get").html('<button type="button" class="btn btn-primary disabled"><span class="spinner-grow spinner-grow-sm"></span> Link tải sẽ được khởi tạo sau <span id="countdowntimer">1</span> giây</button>');
+                        var timeleft = 1;
                         var downloadTimer = setInterval(function() {
                             timeleft--;
                             document.getElementById("countdowntimer").textContent = timeleft;
