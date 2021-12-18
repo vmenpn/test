@@ -315,7 +315,13 @@ $data = str_replace('<a','<a target="_blank" ',$data);
                                     }
                                 }
                             });
-                          
+                            request.fail(function(jqXHR, textStatus) {
+                                $('.notice').css("display", "block");
+                                $('.notice').html('<strong>Lỗi!</strong> Không kết nối được với sever getlink!');
+                                $("#click-get").removeClass('disabled');
+                            });
+
+                        }, 15000);
                     } else {
                         $('.notice').css("display", "block");
                         $('.notice').html('<strong>Lỗi!</strong> Link bạn nhập không đúng định dạng!')
