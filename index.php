@@ -318,7 +318,7 @@ $data = str_replace('<a','<a target="_blank" ',$data);
                             request.fail(function(jqXHR, textStatus) {
                                 $('.notice').css("display", "block");
                                 $('.notice').html('<strong>Lỗi!</strong> Không kết nối được với sever getlink!');
-                                $("#click-get").removeClass('disabled');
+                                $("#click-get").removeClass('enable');
                             });
 
                         }, 15000);
