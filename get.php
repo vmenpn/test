@@ -5,8 +5,8 @@ $passfile = $_POST['pass'];
 // $link = 'https://www.fshare.vn/file/4Q56774PV4MG';
 $app_name='chinhchu99-0NNLN2';
 $app_key='dMnqMMZMUnN5YpvKENaEhdQQ5jxDqddt'; 
-$email = 'toilachinhchu99@gmail.com';
-$pass = '23108484as@';
+$email = 'vuphung69@gmail.com';
+$pass = 'Hihihaha123@';
 
 
 /////////////////////////// CÁC HÀM XỬ LÝ ///////////////////////////////

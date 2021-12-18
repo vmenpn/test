@@ -1,7 +1,4 @@
-<?php
-if(!isset($_COOKIE['sure'])){
-    echo '{"code":333,"msg":"Bạn không phải sinh viên KMAer!"}';
-}else{    
+<?php   
 /////////////////////////// DỮ LIỆU ĐẦU VÀO ///////////////////////////////
 $link = str_replace(' ','',$_POST['link']);
 $passfile = $_POST['pass'];
