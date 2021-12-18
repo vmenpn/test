@@ -189,7 +189,7 @@ $data = str_replace('<a','<a target="_blank" ',$data);
                </div>
            </div>
            <div class="col-sm-12 text-center mt-3"><b>
-                    <p class="text-warning"><i class="fa fa-exclamation-triangle"></i> Lưu ý : Dung lượng tải nhanh tối đa của website là 150GB / Ngày. Sau khi hết dung lượng tốc độ tải thuộc loại khá !</p>  
+                    <p class="text-warning"><i class="fa fa-exclamation-triangle"></i> Lưu ý : Dung lượng tải nhanh tối đa của website là 100GB / Ngày. Sau khi hết dung lượng tốc độ tải thuộc loại khá !</p>  
                    <h4 class="text-danger" style="border: 1px solid #cd1417;padding: 10px 0;"><i class="fa fa-exclamation-triangle"></i> Hệ thống chỉ dành cho Sinh Viên KMAer!</h4>
                     <p class="text-primary "> Gợi ý: Tưởng là <span class="text-danger">3</span> hóa ra là <span class="text-danger">4</span> ! Học sinh KMAer chắc chắn giải được để dùng! </p>
                </b></div>
