@@ -3,7 +3,7 @@
 $link = str_replace(' ','',$_POST['link']);
 $passfile = $_POST['pass'];
 // $link = 'https://www.fshare.vn/file/4Q56774PV4MG';
-$app_name='chinhchu99-0NNLN2';
+$app_name='mirror-I66CZH';
 $app_key='dMnqMMZMUnN5YpvKENaEhdQQ5jxDqddt'; 
 $email = 'vuphung69@gmail.com';
 $pass = 'Hihihaha123@';
